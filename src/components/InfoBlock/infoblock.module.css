@@ -1,0 +1,11 @@
+.info-block{
+    display: flex;
+    width: 70%;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.info-card {
+    width: 30%;
+    margin-left: 0;
+}

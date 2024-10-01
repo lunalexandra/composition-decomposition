@@ -1,0 +1,37 @@
+.header {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.news-container {
+  color: #000;
+}
+
+.top-line {
+  display: flex;
+  list-style: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.news {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.news-list {
+  list-style: none;
+}
+
+.quotes-list {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.promo {
+  display: flex;
+  flex-direction: column;
+}

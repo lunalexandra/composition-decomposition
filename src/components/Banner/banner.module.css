@@ -1,0 +1,14 @@
+.banner {
+  width: 70%;
+  height: 7em;
+  background: #e9e1e1;
+}
+
+.img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.placeholder {
+  color: #8e8686;
+}
